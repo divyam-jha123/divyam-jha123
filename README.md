@@ -23,7 +23,14 @@
 
 ###
 
-<p align="left">A passionate coder from India 🇮🇳<br><br>- MERN stack development<br>- 📩 Reach me at divyamjha.70055594@gmail.com</p>
+<p align="left">
+
+I’m a student who loves exploring how things work under the hood — from Data Structures and Algorithms in Java to building real-world projects with JavaScript, Node.js, and Docker. I enjoy turning concepts into working systems and learning best practices while contributing to open source.
+
+Currently focused on sharpening my problem-solving skills, understanding backend systems, and writing clean, maintainable code.
+
+I’m always learning, building, and looking for ways to grow as a developer.
+<br><br>- MERN stack development<br>- 📩 Reach me at divyamjha.70055594@gmail.com</p>
 
 ###
 
