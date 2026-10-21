@@ -1,4 +1,4 @@
-<a href="https://divyamjha.vercel.app"><img src="./assets/hero.svg" alt="Divyam Kumar Jha — divyam@github profile card" width="100%"/></a>
+<a href="https://divyamjha.vercel.app"><img src="./assets/hero.svg" alt="Divyam Jha — divyam@github profile card" width="100%"/></a>
 
 <!-- 
 <img src="./assets/terminal.svg" alt="Animated terminal: whoami, about, projects, stack, contact" width="100%"/> -->
