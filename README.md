@@ -12,26 +12,9 @@
 
 <img src="./assets/terminal.svg" alt="Animated terminal: whoami, about, projects, stack, contact" width="100%"/>
 
-### `>` Featured Projects
-
-<p>
-  <a href="https://github.com/divyam-jha123/stable-coin-payments"><img src="./assets/project-travelpe.svg" alt="TravelPe" width="49%"/></a>
-  <a href="https://brainexpo.me"><img src="./assets/project-brainexpo.svg" alt="BrainExpo" width="49%"/></a>
-  <a href="https://github.com/divyam-jha123/virtual-workspace"><img src="./assets/project-virtual-workspace.svg" alt="Virtual Workspace" width="49%"/></a>
-  <a href="https://github.com/divyam-jha123/paladin-java-sdk"><img src="./assets/project-paladin-java-sdk.svg" alt="Paladin Java SDK" width="49%"/></a>
-</p>
-
----
 
 ### `>` Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,ts,py,go,react,nextjs,nodejs,postgres,docker,kubernetes,git,linux&theme=dark" />
-</p>
-
-### `>` Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=divyam-jha123&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyam-jha123&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://skillicons.dev/icons?i=java,ts,py,solidity,react,nextjs,nodejs,postgres,mongodb,prisma,docker,kubernetes,git,linux&perline=14&theme=dark" alt="Java, TypeScript, Python, Solidity, React, Next.js, Node.js, PostgreSQL, MongoDB, Prisma, Docker, Kubernetes, Git, Linux" width="100%" />
 </p>
