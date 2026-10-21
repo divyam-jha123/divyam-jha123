@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="220" height="64" viewBox="0 0 220 64">
+<style>
+  text { font-family: 'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+  .blink { animation: blink 1.1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+</style>
+<rect width="220" height="64" rx="14" fill="#07110c"/>
+<rect x="2" y="2" width="216" height="60" rx="12" fill="#0a1711" stroke="#1d6b46" stroke-width="1.5"/>
+<g transform="translate(20 20)" fill="#2ee59d" color="#2ee59d"><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/></g>
+<text x="56" y="38" font-size="17" font-weight="700" fill="#d6e6dd">X</text>
+<text x="198" y="38" font-size="16" fill="#7f9c8d" text-anchor="end">↗</text>
+</svg>

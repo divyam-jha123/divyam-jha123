@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="190" viewBox="0 0 400 190">
+<style>
+  text { font-family: 'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+  .blink { animation: blink 1.1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+</style>
+<rect width="400" height="190" rx="14" fill="#07110c"/>
+<rect x="2" y="2" width="396" height="186" rx="12" fill="#0a1711" stroke="#1d6b46" stroke-width="1.5"/>
+<rect x="18" y="18" width="52" height="52" rx="10" fill="#b07cff" fill-opacity="0.12"/>
+<g transform="translate(18 18)"><g fill="none" stroke="#b07cff" stroke-width="2.6" stroke-linejoin="round"><rect x="10" y="11" width="32" height="22" rx="3"/><path d="M26 33 V40 M18 41 H34"/></g></g>
+<text x="86" y="40" font-size="17" font-weight="700" fill="#d6e6dd">Virtual Workspace</text>
+<text x="374" y="34" font-size="15" fill="#7f9c8d" text-anchor="end">↗</text>
+<text x="86" y="66" font-size="13" fill="#7f9c8d">Spatial virtual office for</text>
+<text x="86" y="86" font-size="13" fill="#7f9c8d">remote teams with real-time</text>
+<text x="86" y="106" font-size="13" fill="#7f9c8d">presence.</text>
+<rect x="20" y="142" width="62" height="26" rx="5" fill="none" stroke="#1d6b46" stroke-width="1.3"/>
+<text x="51.0" y="160" font-size="12.5" fill="#d6e6dd" text-anchor="middle">React</text>
+<rect x="92" y="142" width="78" height="26" rx="5" fill="none" stroke="#1d6b46" stroke-width="1.3"/>
+<text x="131.0" y="160" font-size="12.5" fill="#d6e6dd" text-anchor="middle">Node.js</text>
+<rect x="180" y="142" width="70" height="26" rx="5" fill="none" stroke="#1d6b46" stroke-width="1.3"/>
+<text x="215.0" y="160" font-size="12.5" fill="#d6e6dd" text-anchor="middle">WebRTC</text>
+</svg>
